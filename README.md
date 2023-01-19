@@ -1,4 +1,4 @@
-# JavaScript---BMI---Calculator
+# JAVASCRIPT---BMI---CALCULATOR
 
 
 Software: HTML, CSS, JavaScript
