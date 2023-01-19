@@ -3,7 +3,7 @@
 
 Software: HTML, CSS, JavaScript
 
-PROJECT LINK: https://brittanytamra.github.io/JavaScript---BMI---Calculator/
+PROJECT LINK: 
 
 REQUIREMENTS:
 
